@@ -8,7 +8,6 @@ class IlluminateSnappyPdf extends Pdf {
       * @var \Illuminate\Filesystem\Filesystem
       */
      protected $fs;
-    
 
 	/**
 	 * @param \Illuminate\Filesystem\Filesystem
